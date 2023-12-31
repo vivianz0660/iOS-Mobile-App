@@ -2,5 +2,5 @@
 
 ## Project Goal
 
-The goal of this tutorial is to learn more about Optionals, solidify your understanding of the MVC design pattern and to introduce the concept of Classes. We’ll compare objects created from classes with instances of Structs that we learnt about earlier. 
+The goal of this project is to applied MVC architecture to develop a BMI calculator allowing user to select value with UISlider and returning BMI index and suggestions.
 

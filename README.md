@@ -15,4 +15,4 @@ The goal of this program is to applied MVC architecture to develop a BMI calcula
 * Formatting Strings. 
 * Color literals.
 
-![End Banner](Documentation/readme-end-banner.png)
+![End Banner](readme-end-banner.png)

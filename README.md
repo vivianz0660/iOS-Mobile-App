@@ -1,4 +1,4 @@
-![App Brewery Banner](readme-open-banner.jpg)
+![Open Banner](readme-open-banner.jpg)
 
 #  BMI Calculator
 

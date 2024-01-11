@@ -2,11 +2,11 @@
 
 #  BMI Calculator
 
-## Our Goal
+## Project Goal
 
-The goal of this program is to applied MVC architecture to develop a BMI calculator allowing user to select value with UISlider and returning BMI index and suggestions. 
+The goal of this project is to applied MVC architecture to develop a BMI calculator allowing user to select value with UISlider and returning BMI index and suggestions. 
 
-## What the program create
+## What the project create
 
 * Create multi-screen apps with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
